@@ -1,7 +1,7 @@
 package Math;
 import java.util.Scanner;
 
-public class n2839 {
+public class N2839 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
