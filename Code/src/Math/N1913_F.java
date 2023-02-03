@@ -1,11 +1,11 @@
-/*
+
 package Math;
 
-import java.io.*;
-import java.util.StringTokenizer;
-import java.util.Vector;
+public class N1913_F {
+    public static void main(String[] args) {
 
-public class n1913 {
+    }
+}/*
     public static int[][] graph;
 
     public static void main(String[] args) throws IOException {
@@ -59,9 +59,10 @@ public class n1913 {
         }
     }
     public static boolean IsExist(){
-        result = false;
+        boolean result = false;
 
 
         return result;
     }
-}*/
+}
+*/
