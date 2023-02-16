@@ -14,11 +14,11 @@ public class BFS_sample {
         public Pos(int r, int c, int dist) {
             this.r = r;
             this.c = c;
-            this.dist = dist;
+            this.dist = dist;   // distant
         }
     }
 
-    private static final int[] DR = {1, 0, -1, 0};
+    private static final int[] DR = {1, 0, -1, 0}; //direct Row
     private static final int[] DC = {0, 1, 0, -1};
     private static final char MAZE_START    = 'S';
     private static final char MAZE_BLOCK    = 'X';
