@@ -7,7 +7,7 @@ import java.util.PriorityQueue;
 import java.util.StringTokenizer;
 
 
-public class N12764 {
+public class N12764_F2 {
     static class person implements Comparable<person> {
         int start;
         int end;
